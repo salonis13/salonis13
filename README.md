@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Embedded Software/Hardware Domain. 
 - 🌱 I’m currently learning C language, PCB Designing, Embedded Systems Design, IoT Development ...
-- 📫 How to reach me: [Linkedin] (https://www.linkedin.com/in/saloniv-shah/); [Gmail](mailto:shah.saloniv@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/saloniv-shah/); [Gmail](mailto:shah.saloniv@gmail.com)
 - 😄 Pronouns: She/Her
 
 
