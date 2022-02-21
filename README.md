@@ -1,13 +1,7 @@
-### Hi there 👋
+## Hi there 👋 
 
-<!--
-**salonis13/salonis13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
-Here are some ideas to get you started:
+
+I am a Graduate Student at University of Colorado, Boulder pursuing Professional Master's in Embedded Systems. I am greatly interested in C language and also working on Linux kernel Development. Below is a quick summary:
 
 - 🔭 I’m currently working on Embedded Software/Hardware Domain. 
 - 🌱 I’m currently learning C language, PCB Designing, Embedded Systems Design, IoT Development etc.
